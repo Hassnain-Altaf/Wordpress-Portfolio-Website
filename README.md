@@ -9,8 +9,8 @@ This repository showcases the design and development of a portfolio website usin
 - ***Integration with Social Media:*** Includes links to social media profiles for broader reach.
 
 # Technologies Used:
--WordPress
--HTML, CSS
+- WordPress
+- HTML, CSS
 
 # Click here for live Preview:
 https://hassnaindev.wordpress.com/
